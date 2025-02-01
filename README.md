@@ -19,7 +19,7 @@ Features
 Installation
 ------------
 
-1.  bashCopygit clone https://github.com/your-username/gdpr-cookie-banner.git
+1.  bashCopygit clone https://github.com/tiborszabo89/Simple-gdpr-plugin-for-wordpress.git
     
     *   Clone this repository or download the ZIP file.
         
